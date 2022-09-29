@@ -213,7 +213,7 @@ https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5d97ca5673de440761ff194e.png" group-title="Undefined", Cabina Telemetro Radio (480p)
 https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/512px-Cable_Noticias_logo.svg.png" group-title="News", Cablenoticias (Bogotà | Cundinamarca) (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/512px-Cable_Noticias_logo.svg.png" group-title="1 Nacionales", Cablenoticias (Bogotà | Cundinamarca) (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://arcast.com.ar/cadena103/wp-content/uploads/2017/07/logofoot.png" group-title="Undefined", Cadena 103
@@ -243,7 +243,7 @@ https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTJ1jjH.png" group-title="Undefined", Campus TV (Talca) (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General", Canal 1 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="1 Nacionales", Canal 1 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="Undefined", Canal 2 (Salta)
@@ -432,13 +432,13 @@ http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gork4XV.png" group-title="Undefined", Canal C (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Nacionales", Canal Caracol (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="1 Nacionales", Canal Caracol (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4kJyqm.png" group-title="Undefined", Canal Catorce
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="Undefined", Canal CNC Cartagena (Cartagena | Bolívar) (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJHZfNt.png" group-title="1 Nacionales", Canal CNC Cartagena (Cartagena | Bolívar) (720p)
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-aeAlzPyDNX8/Xx4DOKMNpHI/AAAAAAAA3gc/iN2_EZ7gS4URvFD9IB5tjQ6uJ_Qd7rPZwCK8BGAsYHg/s0/2020-07-26.png" group-title="Undefined", Canal Coop
@@ -2046,7 +2046,7 @@ https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleimpacto-do.png" group-title="Undefined", Teleimpacto (720p) [Not 24/7]
 http://190.122.96.188:8888/http/013
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="General", Teleislas (San Andrés) (486p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="1 Nacionales", Teleislas (San Andrés) (486p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDMkUfA.png" group-title="Undefined", TeleJunín (576p) [Not 24/7]
@@ -2088,7 +2088,7 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/logotipo-1.png" group-title="Undefined", Teleonuba
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Undefined", Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39hy97J.png" group-title="1 Nacionales", Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png" group-title="Undefined", Telered Television (720p) [Not 24/7]
@@ -2223,7 +2223,7 @@ https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx6SWNf.png" group-title="Undefined", TV8 (Concepción) (514p) [Geo-blocked]
 https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="Outdoor", TV Agro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJibSpO.png" group-title="1 Nacionales", TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/06/tvairepng-300x100.png" group-title="Undefined", TV Aire
@@ -2520,6 +2520,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://landingwebimg.s3.amazonaws.com/uploads/landing_page_business/logo/30003/image-upload1645141554.jpeg" group-title="Undefined", Zona Joven TV
 https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="Undefined", Zoom (Bogotà | Cundinamarca) (1080p)
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="1 Nacionales", Zoom (Bogotà | Cundinamarca) (1080p)
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
