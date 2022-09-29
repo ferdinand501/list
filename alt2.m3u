@@ -1,0 +1,437 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", France24
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Visit-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hotmixradio 80Â´S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Holvoet Copiapo
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VTV  HD
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Campus Tv Talca
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ufrovision Temuco
+http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Pinguino Tv Punta Arenas
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rede Brasil DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NRB Network
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rye TV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Texas Student TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CGTV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DBTV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Radio One
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Radio Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Radio Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wairarapa TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Omroep West
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kanal 10
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Himlen TV7
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Pocos
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 26*
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pinguino TV*
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Noticias 7.3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Peru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Akudji TV
+http://hls.goodgame.ru/hls/5346.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24 Riga TV
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV 8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVNZ
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cannali TV
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Crete TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ionian Channel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kontra
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Creta
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Vouli TV
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRT 1 (Turkish)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRT 2 (Turkish)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hidabroot TV
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eye 95 TV (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Saudi 1
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Saudi 2 [Off]
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Saudi Documentary
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ajyal TV
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Edukasi
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ~ Adult Swim ~
+http://stream.dubstep.fm:80/256mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARG CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bolivia 2 FTA
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Brazil 1 FTA
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Brazil 4 FTA
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chile 5 FTA
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Daystar
+https://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", France 24 (EN)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Grand Lille TV
+http://str81.creacast.com/grandlilletv/high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HIT Channel (Ru)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kontra Channel (Gr)
+http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RE TV (Latv)
+http://edge-telia2.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Russia 8 FTA
+http://nano.teleservice.su:8080/hls/nano.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sfera TV (Pol)
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SKY TG24 Italy
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TSN Tele Sondrio News (It)
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Turkey 9 FTA
+http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VISUAL RADIO
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latinos:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA:Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV PERu (Lima â€“ Peru) (Game Snake Land S. y L.)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV PERu (Lima â€“ Peru) (Game Snake Land S. y L.)
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24 Horas [SD]
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Pinguino [SD] (Punta Arenas)
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Pinguino [HD] (Punta Arenas)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VTV ViÃ±a del Mar [HD]
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multimedios Monterrey [SD]
+http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio Sur (92.1 FM Los Angeles)
+http://ww3.radiosur.cl:5074/rsur
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio La Discusion (94.7 FM Chillan)
+http://stream5.eltelon.com/radio-la-discusion.aac
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio Genesis (96.5 FM Curacautin)
+http://stream5.eltelon.com/genesis.aac
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio San Bartolome (96.7 FM La Serena)
+http://stream5.eltelon.com/san-bartolome.aac
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio Sol (97.7 FM Antofagasta)(Alt)
+http://stream5.eltelon.com/sol-radio.aac
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Positiva (98.5 FM Temuco)
+http://mimix.mercurio.cl:8000/temuco2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio Positiva (FM 99.5 Valdivia)
+http://mimix.mercurio.cl:8000/valdivia2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio Centro FM (103.3 FM Antofagasta)
+http://stream5.eltelon.com/centro.aac
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Radio Galaxia (Online)
+http://sscl.denialstream.com:8830/;stream/1.mp3
+
